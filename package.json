@@ -1,0 +1,15 @@
+{
+  "name": "teste-ui-cypress",
+  "version": "1.0.0",
+  "description": "UI test for EBAC-SHOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:opennpm": "cypress open"
+  },
+  "author": "Ana Carollyne Guimarães de Souza",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
