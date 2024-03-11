@@ -11,4 +11,4 @@ Este projeto pode ser executado nos navegadores Chrome, Firefox e Edge.
 
 ### Executando os testes
 - Para rodar os testes na interface do Cypress, execute `npm run cy:open`
-- Para rodas os testes via terminal, execute `npm run cy:run`
+- Para rodar os testes via terminal, execute `npm run cy:run`
