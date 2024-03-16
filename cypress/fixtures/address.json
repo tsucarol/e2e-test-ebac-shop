@@ -1,0 +1,31 @@
+[{
+    "name": "Fernando",
+    "lastname": "Fagundes",
+    "company": "Twitch",
+    "country": "Brasil",
+    "address": "Av De mentirinha",
+    "number": "4520",
+    "city": "Curitiba",
+    "state": "Paraná",
+    "zipcode": "02000200",
+    "phone": "11544446633",
+    "email": "teste@teste.com",
+    "observations": "Enviar em pacotes separados",
+    "payment": "Cheque"
+},
+{
+    "name": "Ana Carollyne",
+    "lastname": "Guimarães",
+    "company": "Toledo",
+    "country": "Brasil",
+    "address": "Rua do teste",
+    "number": "30",
+    "city": "São Bernardo do Campo",
+    "state": "São Paulo",
+    "zipcode": "09841100",
+    "phone": "11544458633",
+    "email": "teste2@teste.com",
+    "observations": "Papel de presente em todos os produtos",
+    "payment": "Pagamento na entrega"
+}
+]
