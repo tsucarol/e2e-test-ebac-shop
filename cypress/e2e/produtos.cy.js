@@ -12,7 +12,7 @@ describe('E2E - EBAC Shop order flow', () => {
         catalogPage.accessCatalog()
     });
 
-    it.only('Should add itens to the cart', () => {
+    it('Should add itens to the cart and complete the purchase', () => {
         for (const product of productData) {
             catalogPage.accessCatalog()
             productsPage.setProduct(product.product, product.size, product.color, product.quantity)
