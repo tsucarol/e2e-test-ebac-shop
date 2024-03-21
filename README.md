@@ -1,14 +1,13 @@
-# Testes E2E EBAC Shop
-## Objetivo
-O objetivo deste repositório é focado no desenvolvimento de testes automatizados para Web, utilizando o Cypress, uma ferramenta desenvolvida em linguagem JavaScript que proporciona rapidez, facilidade e confiabilidade nos testes.
+# E2E Tests EBAC Shop
+The aim of this repository is to focus on the development of automated tests for the Web, using Cypress, a tool developed in JavaScript that makes testing quick, easy and viable.
 
-Este projeto pode ser executado nos navegadores Chrome, Firefox e Edge.
+> This project can be run in Chrome, Firefox and Edge browsers
 
-## Executando os testes
-### Primeiros passos
-1. Instale o node. Execute `npm install node`
-2. Execute o comando `npm install` para instalar as dependências
+## Running tests
+### First steps
+1. Install node. Run `npm install node`
+2. Run `npm install` to install the dependencies
 
-### Executando os testes
-- Para rodar os testes na interface do Cypress, execute `npm run cy:open`
-- Para rodar os testes via terminal, execute `npm run cy:run`
+### Commands to run the tests
+- To run the tests in the Cypress interface `npm run cy:open`
+- To run the tests at the command prompt `npm run cy:run`
